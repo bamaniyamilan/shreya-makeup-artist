@@ -2,6 +2,9 @@
 
 ✨ A beautiful, responsive portfolio website for a professional makeup artist built with React, Vite, and Tailwind CSS.
 
+## ✨ Live 
+https://shreya-makeup-artist.vercel.app/
+
 ## ✨ Features
 
 - 🎨 Beautiful and modern UI design
